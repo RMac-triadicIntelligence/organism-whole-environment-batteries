@@ -1,0 +1,266 @@
+{
+  "naive": [
+    {
+      "arm": "naive",
+      "seed": 0,
+      "second_trap_captured": 0.013070921102268249,
+      "true_weight_kept": 0.9851012914800285,
+      "has_record": false,
+      "resolved": false
+    },
+    {
+      "arm": "naive",
+      "seed": 1,
+      "second_trap_captured": 0.005585402588389722,
+      "true_weight_kept": 1.003993070998506,
+      "has_record": false,
+      "resolved": false
+    },
+    {
+      "arm": "naive",
+      "seed": 2,
+      "second_trap_captured": 0.010119482675476944,
+      "true_weight_kept": 0.9991684144690288,
+      "has_record": false,
+      "resolved": false
+    },
+    {
+      "arm": "naive",
+      "seed": 3,
+      "second_trap_captured": 9.751958670106047e-05,
+      "true_weight_kept": 1.0047774007181667,
+      "has_record": false,
+      "resolved": false
+    },
+    {
+      "arm": "naive",
+      "seed": 4,
+      "second_trap_captured": 0.006316554167867645,
+      "true_weight_kept": 0.9934543925295026,
+      "has_record": false,
+      "resolved": false
+    },
+    {
+      "arm": "naive",
+      "seed": 5,
+      "second_trap_captured": 0.004437411262544204,
+      "true_weight_kept": 0.9841871011763076,
+      "has_record": false,
+      "resolved": false
+    },
+    {
+      "arm": "naive",
+      "seed": 6,
+      "second_trap_captured": 0.008063498784517857,
+      "true_weight_kept": 1.0030211199446233,
+      "has_record": false,
+      "resolved": false
+    },
+    {
+      "arm": "naive",
+      "seed": 7,
+      "second_trap_captured": 0.00852913735151333,
+      "true_weight_kept": 1.0078598680399136,
+      "has_record": false,
+      "resolved": false
+    }
+  ],
+  "erred": [
+    {
+      "arm": "erred",
+      "seed": 0,
+      "second_trap_captured": 0.2987266057406175,
+      "true_weight_kept": 0.7419433881248845,
+      "has_record": true,
+      "resolved": false
+    },
+    {
+      "arm": "erred",
+      "seed": 1,
+      "second_trap_captured": 0.265282693590456,
+      "true_weight_kept": 0.7492985081821736,
+      "has_record": true,
+      "resolved": false
+    },
+    {
+      "arm": "erred",
+      "seed": 2,
+      "second_trap_captured": 0.2791386314434092,
+      "true_weight_kept": 0.7464177219954231,
+      "has_record": true,
+      "resolved": false
+    },
+    {
+      "arm": "erred",
+      "seed": 3,
+      "second_trap_captured": 0.26988743726095993,
+      "true_weight_kept": 0.7562996356612912,
+      "has_record": true,
+      "resolved": false
+    },
+    {
+      "arm": "erred",
+      "seed": 4,
+      "second_trap_captured": 0.32392758732759475,
+      "true_weight_kept": 0.7425761161046738,
+      "has_record": true,
+      "resolved": false
+    },
+    {
+      "arm": "erred",
+      "seed": 5,
+      "second_trap_captured": 0.22995543357508688,
+      "true_weight_kept": 0.7550982877051459,
+      "has_record": true,
+      "resolved": false
+    },
+    {
+      "arm": "erred",
+      "seed": 6,
+      "second_trap_captured": 0.2804703565918961,
+      "true_weight_kept": 0.7361095653192716,
+      "has_record": true,
+      "resolved": false
+    },
+    {
+      "arm": "erred",
+      "seed": 7,
+      "second_trap_captured": 0.2550196325473325,
+      "true_weight_kept": 0.7440568091066033,
+      "has_record": true,
+      "resolved": false
+    }
+  ],
+  "restored": [
+    {
+      "arm": "restored",
+      "seed": 0,
+      "second_trap_captured": 0.00902187192053295,
+      "true_weight_kept": 1.0061879089931596,
+      "has_record": true,
+      "resolved": true
+    },
+    {
+      "arm": "restored",
+      "seed": 1,
+      "second_trap_captured": 0.004921198630656241,
+      "true_weight_kept": 1.0033559422988672,
+      "has_record": true,
+      "resolved": true
+    },
+    {
+      "arm": "restored",
+      "seed": 2,
+      "second_trap_captured": 0.006749103589825242,
+      "true_weight_kept": 0.9959492883662283,
+      "has_record": true,
+      "resolved": true
+    },
+    {
+      "arm": "restored",
+      "seed": 3,
+      "second_trap_captured": 0.0012531059464502962,
+      "true_weight_kept": 1.003685953698519,
+      "has_record": true,
+      "resolved": true
+    },
+    {
+      "arm": "restored",
+      "seed": 4,
+      "second_trap_captured": 0.005793876254744964,
+      "true_weight_kept": 1.00494863159412,
+      "has_record": true,
+      "resolved": true
+    },
+    {
+      "arm": "restored",
+      "seed": 5,
+      "second_trap_captured": 0.007792480861153643,
+      "true_weight_kept": 0.9958441635107373,
+      "has_record": true,
+      "resolved": true
+    },
+    {
+      "arm": "restored",
+      "seed": 6,
+      "second_trap_captured": 0.007612830160163319,
+      "true_weight_kept": 0.9881079715432332,
+      "has_record": true,
+      "resolved": true
+    },
+    {
+      "arm": "restored",
+      "seed": 7,
+      "second_trap_captured": 0.01813449309001977,
+      "true_weight_kept": 0.998792963560562,
+      "has_record": true,
+      "resolved": true
+    }
+  ],
+  "erased": [
+    {
+      "arm": "erased",
+      "seed": 0,
+      "second_trap_captured": 0.00902187192053295,
+      "true_weight_kept": 1.0061879089931596,
+      "has_record": false,
+      "resolved": false
+    },
+    {
+      "arm": "erased",
+      "seed": 1,
+      "second_trap_captured": 0.004921198630656241,
+      "true_weight_kept": 1.0033559422988672,
+      "has_record": false,
+      "resolved": false
+    },
+    {
+      "arm": "erased",
+      "seed": 2,
+      "second_trap_captured": 0.006749103589825242,
+      "true_weight_kept": 0.9959492883662283,
+      "has_record": false,
+      "resolved": false
+    },
+    {
+      "arm": "erased",
+      "seed": 3,
+      "second_trap_captured": 0.0012531059464502962,
+      "true_weight_kept": 1.003685953698519,
+      "has_record": false,
+      "resolved": false
+    },
+    {
+      "arm": "erased",
+      "seed": 4,
+      "second_trap_captured": 0.005793876254744964,
+      "true_weight_kept": 1.00494863159412,
+      "has_record": false,
+      "resolved": false
+    },
+    {
+      "arm": "erased",
+      "seed": 5,
+      "second_trap_captured": 0.007792480861153643,
+      "true_weight_kept": 0.9958441635107373,
+      "has_record": false,
+      "resolved": false
+    },
+    {
+      "arm": "erased",
+      "seed": 6,
+      "second_trap_captured": 0.007612830160163319,
+      "true_weight_kept": 0.9881079715432332,
+      "has_record": false,
+      "resolved": false
+    },
+    {
+      "arm": "erased",
+      "seed": 7,
+      "second_trap_captured": 0.01813449309001977,
+      "true_weight_kept": 0.998792963560562,
+      "has_record": false,
+      "resolved": false
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "alpha": {
+    "histories": 16,
+    "grace_exposures": 480,
+    "contacts": 0,
+    "release_events": 0,
+    "histories_released": 0,
+    "histories_repeated_release": 0,
+    "supported_windows": 1384,
+    "final_mean_live_loss": 0.06083546959361338,
+    "max_abs_a": 0.26327743437494106,
+    "preserved_release_memory": true,
+    "total_deposits": 3840
+  },
+  "beta": {
+    "histories": 16,
+    "grace_exposures": 480,
+    "contacts": 0,
+    "release_events": 0,
+    "histories_released": 0,
+    "histories_repeated_release": 0,
+    "supported_windows": 1384,
+    "final_mean_live_loss": 0.06083546959361338,
+    "max_abs_a": 0.26327743437494106,
+    "preserved_release_memory": true,
+    "total_deposits": 3840
+  }
+}
+emergence_verdict: unassigned

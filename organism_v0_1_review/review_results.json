@@ -1,0 +1,90 @@
+{
+  "python": "3.12.14",
+  "numpy": "2.3.5",
+  "source_sha256": "deee4dec1c824152377d1e8c829d2a8aecd8ca9a1354f00f3f7d1e460ba14dc3",
+  "mean_capture": {
+    "naive": 0.0070274909399098764,
+    "erred": 0.2753010472596691,
+    "restored": 0.007659870056693304,
+    "erased": 0.007659870056693304
+  },
+  "checkpoint_warrant": {
+    "erred": {
+      "n": 48,
+      "warranted": 0
+    },
+    "restored": {
+      "n": 48,
+      "warranted": 0
+    }
+  },
+  "restored_erased_exact_final_weights": [
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+  ],
+  "shadow_stream_checks": [
+    {
+      "seed": 0,
+      "post_window_x_identical": false,
+      "post_window_y_identical": false
+    },
+    {
+      "seed": 1,
+      "post_window_x_identical": false,
+      "post_window_y_identical": false
+    },
+    {
+      "seed": 2,
+      "post_window_x_identical": false,
+      "post_window_y_identical": false
+    },
+    {
+      "seed": 3,
+      "post_window_x_identical": false,
+      "post_window_y_identical": false
+    },
+    {
+      "seed": 4,
+      "post_window_x_identical": false,
+      "post_window_y_identical": false
+    },
+    {
+      "seed": 5,
+      "post_window_x_identical": false,
+      "post_window_y_identical": false
+    },
+    {
+      "seed": 6,
+      "post_window_x_identical": false,
+      "post_window_y_identical": false
+    },
+    {
+      "seed": 7,
+      "post_window_x_identical": false,
+      "post_window_y_identical": false
+    }
+  ],
+  "seed0_release": {
+    "took": true,
+    "required": 0.10442087310851991,
+    "weights_unchanged": true,
+    "stored_losses_unchanged": true,
+    "weights_at_forced_commit": [
+      0.5285791763122571,
+      0.49245528837225955,
+      0.013725150258435244,
+      -0.00884446057814386,
+      0.0010414911081613992,
+      -0.0054694123338688795,
+      -0.010637581294782865,
+      0.008725715620847358
+    ]
+  },
+  "last_burden_step": 875
+}

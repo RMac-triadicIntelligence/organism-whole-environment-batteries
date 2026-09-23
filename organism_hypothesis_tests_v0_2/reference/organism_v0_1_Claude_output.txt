@@ -1,0 +1,42 @@
+ORGANISM v0.1 — memory-bearing substrate, unscheduled topography
+
+========================================================================
+C1  PARABLE — frozen record, changing reader
+    same ErrorRecord re-presented at checkpoints 0/150/300/450/600/750
+  erred     interpretation changed in 8/8 runs | warranted first 0.00 -> last 0.00
+            attribution path (seed 0): [0, 6, 5, 4, 6, 3]
+  restored  interpretation changed in 8/8 runs | warranted first 0.00 -> last 0.00
+            attribution path (seed 0): [0, 6, 5, 4, 0, 3]
+
+========================================================================
+C4  BURDEN — excess loss vs matched shadow, memory-bearing system
+  naive     step0 +0.00000  step150 +0.00000  step300 +0.00000  end +0.00000
+  erred     step0 +0.00101  step150 +0.10997  step300 +0.08718  end +0.04475
+  restored  step0 +0.00101  step150 +0.10997  step300 +0.08718  end +0.00031
+  erased    step0 +0.00101  step150 +0.10997  step300 +0.08718  end +0.00031
+
+========================================================================
+C5  RECEPTION — required nudge from accumulated experience alone
+    required nudge falls as experience accumulates (seed 0):
+    0:0.921  75:0.235  150:0.141  225:0.124  300:0.104
+    approved offerings that took: 8/8
+
+========================================================================
+C2/C3  S4 != S0 — a LATER, UNSEEN trap on a different feature
+       lower capture = more resistant
+
+  arm         new trap captured   true weight kept
+  naive            0.0070 ±0.0037            0.9977
+  erred            0.2753 ±0.0263            0.7465
+  restored         0.0077 ±0.0045            0.9996
+  erased           0.0077 ±0.0045            0.9996
+
+  restored vs naive : +0.0006  (no advantage over naive)
+  restored vs erased: +0.0000  (erasing the record changed nothing)
+
+========================================================================
+SCOPE — linear two-rule world. 'Interpretation' means feature
+attribution, a declared operationalisation, not understanding.
+No schedule anywhere: the landscape moves only because the
+organism keeps observing. What is NOT tested: bilateral
+transition, semantic reinterpretation, truthful confession.

@@ -1,0 +1,209 @@
+{
+  "histories": 32,
+  "issues": [],
+  "release_rows": [],
+  "paired_observations": [
+    {
+      "seed": 0,
+      "alpha_release_ticks": [],
+      "beta_release_ticks": [],
+      "max_coefficient_difference": 0.07146950006224743
+    },
+    {
+      "seed": 1,
+      "alpha_release_ticks": [],
+      "beta_release_ticks": [],
+      "max_coefficient_difference": 0.07326340291548897
+    },
+    {
+      "seed": 2,
+      "alpha_release_ticks": [],
+      "beta_release_ticks": [],
+      "max_coefficient_difference": 0.08895174145843734
+    },
+    {
+      "seed": 3,
+      "alpha_release_ticks": [],
+      "beta_release_ticks": [],
+      "max_coefficient_difference": 0.06959853024544112
+    },
+    {
+      "seed": 4,
+      "alpha_release_ticks": [],
+      "beta_release_ticks": [],
+      "max_coefficient_difference": 0.13405418986046966
+    },
+    {
+      "seed": 5,
+      "alpha_release_ticks": [],
+      "beta_release_ticks": [],
+      "max_coefficient_difference": 0.11568265720611211
+    },
+    {
+      "seed": 6,
+      "alpha_release_ticks": [],
+      "beta_release_ticks": [],
+      "max_coefficient_difference": 0.06677085506843394
+    },
+    {
+      "seed": 7,
+      "alpha_release_ticks": [],
+      "beta_release_ticks": [],
+      "max_coefficient_difference": 0.08333693962494888
+    },
+    {
+      "seed": 8,
+      "alpha_release_ticks": [],
+      "beta_release_ticks": [],
+      "max_coefficient_difference": 0.08529868272376438
+    },
+    {
+      "seed": 9,
+      "alpha_release_ticks": [],
+      "beta_release_ticks": [],
+      "max_coefficient_difference": 0.0663434380262733
+    },
+    {
+      "seed": 10,
+      "alpha_release_ticks": [],
+      "beta_release_ticks": [],
+      "max_coefficient_difference": 0.12311134287232074
+    },
+    {
+      "seed": 11,
+      "alpha_release_ticks": [],
+      "beta_release_ticks": [],
+      "max_coefficient_difference": 0.0814239209876003
+    },
+    {
+      "seed": 12,
+      "alpha_release_ticks": [],
+      "beta_release_ticks": [],
+      "max_coefficient_difference": 0.13947531841996866
+    },
+    {
+      "seed": 13,
+      "alpha_release_ticks": [],
+      "beta_release_ticks": [],
+      "max_coefficient_difference": 0.07391416352152878
+    },
+    {
+      "seed": 14,
+      "alpha_release_ticks": [],
+      "beta_release_ticks": [],
+      "max_coefficient_difference": 0.17052720498642937
+    },
+    {
+      "seed": 15,
+      "alpha_release_ticks": [],
+      "beta_release_ticks": [],
+      "max_coefficient_difference": 0.06811878946410212
+    }
+  ],
+  "emergence_verdict": null,
+  "release_preservation_assessment": "NOT_EXERCISED: no complete-history releases",
+  "closest_grace_encounters": [
+    {
+      "seed": 4,
+      "basis": "beta",
+      "tick": 56,
+      "a": 0.20763361961421786,
+      "before": -0.8792682499055693,
+      "after": -0.2792682499055693,
+      "saddle": -0.2179928293079363,
+      "shortfall": 0.061275420597633024
+    },
+    {
+      "seed": 5,
+      "basis": "beta",
+      "tick": 56,
+      "a": 0.20625347900727278,
+      "before": -0.8783286675729782,
+      "after": -0.27832866757297825,
+      "saddle": -0.21638518474478136,
+      "shortfall": 0.061943482828196894
+    },
+    {
+      "seed": 14,
+      "basis": "beta",
+      "tick": 48,
+      "a": 0.20180610613744185,
+      "before": -0.8795938878823992,
+      "after": -0.27959388788239925,
+      "saddle": -0.2112309122320542,
+      "shortfall": 0.06836297565034505
+    },
+    {
+      "seed": 12,
+      "basis": "beta",
+      "tick": 56,
+      "a": 0.19134590432140727,
+      "before": -0.8721111271789262,
+      "after": -0.27211112717892627,
+      "saddle": -0.19925708530082542,
+      "shortfall": 0.07285404187810085
+    },
+    {
+      "seed": 5,
+      "basis": "alpha",
+      "tick": 56,
+      "a": 0.19205600624049343,
+      "before": -0.8865596510645506,
+      "after": -0.2865596510645506,
+      "saddle": -0.20006364621733602,
+      "shortfall": 0.08649600484721459
+    },
+    {
+      "seed": 4,
+      "basis": "beta",
+      "tick": 48,
+      "a": 0.18597813594148413,
+      "before": -0.8850004077193089,
+      "after": -0.2850004077193089,
+      "saddle": -0.1931882498193126,
+      "shortfall": 0.0918121578999963
+    },
+    {
+      "seed": 12,
+      "basis": "beta",
+      "tick": 48,
+      "a": 0.20181493188538777,
+      "before": -0.9090587149206363,
+      "after": -0.3090587149206363,
+      "saddle": -0.21124110200257395,
+      "shortfall": 0.09781761291806235
+    },
+    {
+      "seed": 10,
+      "basis": "beta",
+      "tick": 56,
+      "a": 0.1840844077543306,
+      "before": -0.894107923813982,
+      "after": -0.294107923813982,
+      "saddle": -0.1910587056519616,
+      "shortfall": 0.1030492181620204
+    },
+    {
+      "seed": 4,
+      "basis": "alpha",
+      "tick": 56,
+      "a": 0.18243996819763209,
+      "before": -0.901273561654657,
+      "after": -0.301273561654657,
+      "saddle": -0.18921421964717522,
+      "shortfall": 0.1120593420074818
+    },
+    {
+      "seed": 13,
+      "basis": "alpha",
+      "tick": 240,
+      "a": 0.17952960370271384,
+      "before": -0.9014664722772642,
+      "after": -0.3014664722772642,
+      "saddle": -0.1859603448515798,
+      "shortfall": 0.11550612742568439
+    }
+  ],
+  "pairs_with_different_coefficient": 16,
+  "largest_paired_coefficient_difference": 0.17052720498642937
+}

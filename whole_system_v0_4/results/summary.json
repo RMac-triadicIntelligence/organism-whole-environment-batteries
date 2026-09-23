@@ -1,0 +1,322 @@
+{
+  "origin": "operational_proxy_v0.4",
+  "histories": [
+    {
+      "seed": 0,
+      "records": 1,
+      "offerings": 1,
+      "releases": 0,
+      "active_commitment_at_end": [
+        0,
+        1.1765823873209023
+      ],
+      "final_x": -0.9986523000402676,
+      "final_a": 0.002717172081985317,
+      "replay_steps": 456,
+      "conductor_visits": {
+        "record-0": 57
+      },
+      "final_weights": [
+        0.8807296533814906,
+        0.09857655003206661,
+        -0.00029785556058177466,
+        -0.0293448883565264
+      ],
+      "final_probe": {
+        "actual_mse": 0.016032350818524638,
+        "model_mse": 0.017473493339556983,
+        "shifted_context_mse": 0.013408975006245293
+      }
+    },
+    {
+      "seed": 1,
+      "records": 0,
+      "offerings": 0,
+      "releases": 0,
+      "active_commitment_at_end": [
+        1,
+        0.9753633738905134
+      ],
+      "final_x": -1.0031042445573128,
+      "final_a": -0.006207335737869757,
+      "replay_steps": 0,
+      "conductor_visits": {},
+      "final_weights": [
+        -0.012143455669629023,
+        1.0109125129976824,
+        -0.01837657948534654,
+        -0.030860713116166637
+      ],
+      "final_probe": {
+        "actual_mse": 0.014434492407131905,
+        "model_mse": 0.014573708887951144,
+        "shifted_context_mse": 0.016441890726950764
+      }
+    },
+    {
+      "seed": 2,
+      "records": 1,
+      "offerings": 1,
+      "releases": 0,
+      "active_commitment_at_end": [
+        2,
+        0.8612678122430305
+      ],
+      "final_x": -1.0015274061214796,
+      "final_a": -0.003020694256423702,
+      "replay_steps": 384,
+      "conductor_visits": {
+        "record-0": 48
+      },
+      "final_weights": [
+        -0.019954039188840842,
+        0.004221328706018805,
+        1.034448735886766,
+        0.029363899997131574
+      ],
+      "final_probe": {
+        "actual_mse": 0.016634777918455516,
+        "model_mse": 0.014204146171387981,
+        "shifted_context_mse": 0.01431206845599325
+      }
+    },
+    {
+      "seed": 3,
+      "records": 1,
+      "offerings": 1,
+      "releases": 0,
+      "active_commitment_at_end": [
+        3,
+        0.8519029030421977
+      ],
+      "final_x": -1.0003352828975123,
+      "final_a": -0.0006270028650740257,
+      "replay_steps": 336,
+      "conductor_visits": {
+        "record-0": 42
+      },
+      "final_weights": [
+        0.11077130065749609,
+        -0.05462705223763203,
+        0.0031571640195439243,
+        0.9553917900750111
+      ],
+      "final_probe": {
+        "actual_mse": 0.017808059988966972,
+        "model_mse": 0.019303838070494395,
+        "shifted_context_mse": 0.021408819807065115
+      }
+    },
+    {
+      "seed": 4,
+      "records": 0,
+      "offerings": 0,
+      "releases": 0,
+      "active_commitment_at_end": [
+        0,
+        1.0196642262758173
+      ],
+      "final_x": -1.0026329142258648,
+      "final_a": -0.005264480973191986,
+      "replay_steps": 0,
+      "conductor_visits": {},
+      "final_weights": [
+        0.877464548933954,
+        0.11314394437486987,
+        -0.0008676116871252044,
+        0.00645773437478544
+      ],
+      "final_probe": {
+        "actual_mse": 0.01714480825506783,
+        "model_mse": 0.024193579073267905,
+        "shifted_context_mse": 0.01619250223878672
+      }
+    },
+    {
+      "seed": 5,
+      "records": 0,
+      "offerings": 0,
+      "releases": 0,
+      "active_commitment_at_end": [
+        1,
+        1.0854422607990284
+      ],
+      "final_x": -1.0021513155444124,
+      "final_a": -0.004303448634586892,
+      "replay_steps": 0,
+      "conductor_visits": {},
+      "final_weights": [
+        0.022919752793466266,
+        0.9959238716154778,
+        0.011900694652021798,
+        0.0010895811489910444
+      ],
+      "final_probe": {
+        "actual_mse": 0.015851560042175805,
+        "model_mse": 0.015115165262602627,
+        "shifted_context_mse": 0.015256413333648917
+      }
+    },
+    {
+      "seed": 6,
+      "records": 0,
+      "offerings": 0,
+      "releases": 0,
+      "active_commitment_at_end": [
+        2,
+        0.9630698796993382
+      ],
+      "final_x": -1.0027406076149004,
+      "final_a": -0.005472775585399952,
+      "replay_steps": 0,
+      "conductor_visits": {},
+      "final_weights": [
+        0.004118470949160269,
+        0.04032917428695249,
+        1.0058661022848998,
+        -0.02360295578938056
+      ],
+      "final_probe": {
+        "actual_mse": 0.016364154269970857,
+        "model_mse": 0.017102886708925836,
+        "shifted_context_mse": 0.013345712523819098
+      }
+    },
+    {
+      "seed": 7,
+      "records": 1,
+      "offerings": 1,
+      "releases": 0,
+      "active_commitment_at_end": [
+        0,
+        0.9778827802946272
+      ],
+      "final_x": -0.8889110693717421,
+      "final_a": 0.18583313279057162,
+      "replay_steps": 400,
+      "conductor_visits": {
+        "record-0": 50
+      },
+      "final_weights": [
+        -0.027806695457861776,
+        -0.06996043616441643,
+        0.004490031913879119,
+        0.9994514958253156
+      ],
+      "final_probe": {
+        "actual_mse": 0.23831061967026115,
+        "model_mse": 0.01476263638457436,
+        "shifted_context_mse": 0.8434215027320503
+      }
+    },
+    {
+      "seed": 8,
+      "records": 0,
+      "offerings": 0,
+      "releases": 0,
+      "active_commitment_at_end": [
+        0,
+        1.0696338598276385
+      ],
+      "final_x": -1.0026302787929966,
+      "final_a": -0.005256083059888411,
+      "replay_steps": 0,
+      "conductor_visits": {},
+      "final_weights": [
+        0.9880487133030854,
+        -0.011197349483886291,
+        0.010900564221562251,
+        -0.01074393080330422
+      ],
+      "final_probe": {
+        "actual_mse": 0.018676323193700654,
+        "model_mse": 0.017035468373405745,
+        "shifted_context_mse": 0.015472612386740874
+      }
+    },
+    {
+      "seed": 9,
+      "records": 0,
+      "offerings": 0,
+      "releases": 0,
+      "active_commitment_at_end": [
+        1,
+        0.9034577132792075
+      ],
+      "final_x": -1.0018955607809346,
+      "final_a": -0.0037926718054957583,
+      "replay_steps": 0,
+      "conductor_visits": {},
+      "final_weights": [
+        -0.008936458993184068,
+        0.9818390667129434,
+        -0.021521175272027317,
+        0.015232527412510223
+      ],
+      "final_probe": {
+        "actual_mse": 0.012264314943957456,
+        "model_mse": 0.012010436106852927,
+        "shifted_context_mse": 0.016202286499060532
+      }
+    },
+    {
+      "seed": 10,
+      "records": 0,
+      "offerings": 0,
+      "releases": 0,
+      "active_commitment_at_end": [
+        2,
+        0.9500486643140861
+      ],
+      "final_x": -1.003450693686331,
+      "final_a": -0.006912960659694718,
+      "replay_steps": 0,
+      "conductor_visits": {},
+      "final_weights": [
+        0.004726138107086542,
+        -0.01492698450905368,
+        0.9710399476625358,
+        -0.008765571244761194
+      ],
+      "final_probe": {
+        "actual_mse": 0.012852427569824158,
+        "model_mse": 0.012715793617435132,
+        "shifted_context_mse": 0.014036073209298103
+      }
+    },
+    {
+      "seed": 11,
+      "records": 1,
+      "offerings": 1,
+      "releases": 0,
+      "active_commitment_at_end": [
+        3,
+        0.8855586551011659
+      ],
+      "final_x": -1.0015195972182165,
+      "final_a": -0.0030311165253538636,
+      "replay_steps": 328,
+      "conductor_visits": {
+        "record-0": 41
+      },
+      "final_weights": [
+        0.11227743831347012,
+        -0.00430683635508405,
+        0.06876007846569396,
+        0.8887818240681824
+      ],
+      "final_probe": {
+        "actual_mse": 0.019402513902890595,
+        "model_mse": 0.023316976337821198,
+        "shifted_context_mse": 0.021410147699179594
+      }
+    }
+  ],
+  "protocol_sha256": "dfed2e59d7ded2db6c38f4a791d30b731b6a7f6420752b8745f4ab98838160e8",
+  "python": "3.12.14",
+  "numpy": "2.3.5",
+  "total_offerings": 5,
+  "total_releases": 0,
+  "observer_issues": [],
+  "emergence_verdict": "unassigned; exploratory trajectories retained"
+}

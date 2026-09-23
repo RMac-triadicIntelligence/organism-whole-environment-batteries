@@ -1,0 +1,17 @@
+test_attribution_variants_have_declared_direction (test_integrity.Integrity.test_attribution_variants_have_declared_direction) ... ok
+test_diagnostic_copy_does_not_change_reader_or_record (test_integrity.Integrity.test_diagnostic_copy_does_not_change_reader_or_record) ... ok
+test_evidence_preference_not_weight_ranking (test_integrity.Integrity.test_evidence_preference_not_weight_ranking) ... ok
+test_fixed_draws_across_correlation (test_integrity.Integrity.test_fixed_draws_across_correlation) ... ok
+test_gradient_locality (test_integrity.Integrity.test_gradient_locality) ... ok
+test_no_evidence_rejected (test_integrity.Integrity.test_no_evidence_rejected) ... ok
+test_no_world_oracle_in_learner (test_integrity.Integrity.test_no_world_oracle_in_learner) ... ok
+test_paired_bootstrap_and_saved_summary (test_integrity.Integrity.test_paired_bootstrap_and_saved_summary) ... ok
+test_record_immutability_and_hash_coverage (test_integrity.Integrity.test_record_immutability_and_hash_coverage) ... ok
+test_record_shared_across_all_reader_conditions (test_integrity.Integrity.test_record_shared_across_all_reader_conditions) ... ok
+test_saved_pairing_and_unconstrained_identity (test_integrity.Integrity.test_saved_pairing_and_unconstrained_identity) ... ok
+test_unexposed_variants_equal (test_integrity.Integrity.test_unexposed_variants_equal) ... ok
+
+----------------------------------------------------------------------
+Ran 12 tests in 1.991s
+
+OK

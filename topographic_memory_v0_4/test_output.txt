@@ -1,0 +1,55 @@
+test_bad_evidence (__main__.Integrity.test_bad_evidence) ... ok
+test_bad_signature (__main__.Integrity.test_bad_signature) ... ok
+test_blank_and_forged_confession (__main__.Integrity.test_blank_and_forged_confession) ... ok
+test_broadcast_without_commitment (__main__.Integrity.test_broadcast_without_commitment) ... ok
+test_categorical_distance (__main__.Integrity.test_categorical_distance) ... ok
+test_counts_continue (__main__.Integrity.test_counts_continue) ... ok
+test_facts_weights_preserved (__main__.Integrity.test_facts_weights_preserved) ... ok
+test_grace_continues (__main__.Integrity.test_grace_continues) ... ok
+test_memory_changes_flow (__main__.Integrity.test_memory_changes_flow) ... ok
+test_memory_retained (__main__.Integrity.test_memory_retained) ... ok
+test_positive_release (__main__.Integrity.test_positive_release) ... ok
+test_reception_required (__main__.Integrity.test_reception_required) ... ok
+test_rk4_convergence (__main__.Integrity.test_rk4_convergence) ... ok
+test_same_tape (__main__.Integrity.test_same_tape) ... ok
+test_second_cycle (__main__.Integrity.test_second_cycle) ... ok
+test_self_authorization (__main__.Integrity.test_self_authorization) ... ok
+test_source_binding (__main__.Integrity.test_source_binding) ... ok
+test_wrong_recipient (__main__.Integrity.test_wrong_recipient) ... ok
+
+----------------------------------------------------------------------
+Ran 18 tests in 0.137s
+
+OK
+[
+  {
+    "mutant": "reject_all",
+    "baseline": true,
+    "mutant_result": false,
+    "verdict": "DETECTED"
+  },
+  {
+    "mutant": "no_reception_gate",
+    "baseline": true,
+    "mutant_result": false,
+    "verdict": "DETECTED"
+  },
+  {
+    "mutant": "delete_memory",
+    "baseline": true,
+    "mutant_result": false,
+    "verdict": "DETECTED"
+  },
+  {
+    "mutant": "drop_later_grace",
+    "baseline": true,
+    "mutant_result": false,
+    "verdict": "DETECTED"
+  },
+  {
+    "mutant": "ignore_memory",
+    "baseline": true,
+    "mutant_result": false,
+    "verdict": "DETECTED"
+  }
+]

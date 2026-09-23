@@ -1,0 +1,17 @@
+test_dose_signature_binding (test_battery.BatteryTests.test_dose_signature_binding) ... ok
+test_full_state_binding_catches_direct_position_change (test_battery.BatteryTests.test_full_state_binding_catches_direct_position_change) ... ok
+test_mutant_reject_everything_fails_positive_expectations (test_battery.BatteryTests.test_mutant_reject_everything_fails_positive_expectations) ... ok
+test_original_dose_shortfalls (test_battery.BatteryTests.test_original_dose_shortfalls) ... ok
+test_original_recovery (test_battery.BatteryTests.test_original_recovery) ... ok
+test_original_signature_does_not_authorize_larger_branch (test_battery.BatteryTests.test_original_signature_does_not_authorize_larger_branch) ... ok
+test_real_states_positive_and_negative (test_battery.BatteryTests.test_real_states_positive_and_negative) ... ok
+test_saved_trajectories_and_labels (test_battery.BatteryTests.test_saved_trajectories_and_labels) ... ok
+test_source_snapshots_not_changed (test_battery.BatteryTests.test_source_snapshots_not_changed) ... ok
+test_true_roots_and_nonbistable_case (test_battery.BatteryTests.test_true_roots_and_nonbistable_case) ... ok
+test_verdict_cannot_accept_prose_or_truthy_values (test_battery.BatteryTests.test_verdict_cannot_accept_prose_or_truthy_values) ... ok
+test_weights_records_preserved (test_battery.BatteryTests.test_weights_records_preserved) ... ok
+
+----------------------------------------------------------------------
+Ran 12 tests in 1.868s
+
+OK

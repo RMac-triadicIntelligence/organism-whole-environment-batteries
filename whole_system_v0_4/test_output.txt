@@ -1,0 +1,17 @@
+test_evidence_recomputed (test_system.SystemTests.test_evidence_recomputed) ... ok
+test_nonreception_is_possible (test_system.SystemTests.test_nonreception_is_possible) ... ok
+test_offering_binding (test_system.SystemTests.test_offering_binding) ... ok
+test_other_authority_rejected (test_system.SystemTests.test_other_authority_rejected) ... ok
+test_positive_release_path_without_erasure (test_system.SystemTests.test_positive_release_path_without_erasure) ... ok
+test_record_payload_not_mutated_by_read (test_system.SystemTests.test_record_payload_not_mutated_by_read) ... ok
+test_replay_changes_learner (test_system.SystemTests.test_replay_changes_learner) ... ok
+test_revision_binding (test_system.SystemTests.test_revision_binding) ... ok
+test_saved_disclosures_match_experience (test_system.SystemTests.test_saved_disclosures_match_experience) ... ok
+test_saved_histories_integrity_and_finiteness (test_system.SystemTests.test_saved_histories_integrity_and_finiteness) ... ok
+test_seeded_full_run_reproduces (test_system.SystemTests.test_seeded_full_run_reproduces) ... ok
+test_single_delivery (test_system.SystemTests.test_single_delivery) ... ok
+
+----------------------------------------------------------------------
+Ran 12 tests in 1.088s
+
+OK

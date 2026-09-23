@@ -1,0 +1,17 @@
+{
+  "original_stdout_exact_match": true,
+  "original_json_values_exact_match": true,
+  "sha256": {
+    "REPORT.md": "2f82bbfa198b9fc567c5049178e90c08f561cf5aeafac48775cb8daed9145d86",
+    "full_checkpoints_and_curves.json": "0edcdcffd60da5b1603661072f5534f335baa459a0f65a233cfc0519646980eb",
+    "organism.py": "deee4dec1c824152377d1e8c829d2a8aecd8ca9a1354f00f3f7d1e460ba14dc3",
+    "organism_v0_1_results.json": "653d03c59c0fbe3d98a85e3fb291fb19ac4d1ddb5fcc94be2d1c8d43a6934867",
+    "requirements.txt": "7bd6b8946940b79948c548c8048e545684b91c8edc9444d8dfc0c8f76a97c0a7",
+    "review.py": "5a75e17fbcf5597ebb26fc37dedef354a00da3d04d3b2f3c979e5ee4c67f94e5",
+    "review_output.txt": "2193c2f9bd0b0ebd291a602bf778e24e009d6d492af67470618c221a03d686c7",
+    "review_results.json": "2193c2f9bd0b0ebd291a602bf778e24e009d6d492af67470618c221a03d686c7",
+    "run_output.txt": "7bdaa40ec6ca74ca9b7ba558ef0b9dcfadc963c4ded5a644bdfc9b00315c3ce9",
+    "supplied_output.txt": "7bdaa40ec6ca74ca9b7ba558ef0b9dcfadc963c4ded5a644bdfc9b00315c3ce9",
+    "supplied_results.json": "653d03c59c0fbe3d98a85e3fb291fb19ac4d1ddb5fcc94be2d1c8d43a6934867"
+  }
+}
