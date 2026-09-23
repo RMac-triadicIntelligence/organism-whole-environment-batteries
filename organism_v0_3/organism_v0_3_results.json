@@ -1,0 +1,527 @@
+{
+  "alpha": [
+    {
+      "seed": 0,
+      "basis": "alpha",
+      "arm": "full",
+      "signal": 5,
+      "trap": 3,
+      "committed": 5,
+      "wrong": false,
+      "crossed": false,
+      "grounded": {
+        "SDKP(2023)|drifting": "sym_drifting_2023",
+        "SDKP(2103)|drifting": "sym_drifting_2103",
+        "SDKP(2003)|drifting": "sym_drifting_2003",
+        "SDKP(2123)|drifting": "sym_drifting_2123"
+      },
+      "n_unknown": 7
+    },
+    {
+      "seed": 1,
+      "basis": "alpha",
+      "arm": "full",
+      "signal": 2,
+      "trap": 3,
+      "committed": 2,
+      "wrong": false,
+      "crossed": false,
+      "grounded": {
+        "SDKP(2003)|drifting": "sym_drifting_2003",
+        "SDKP(2023)|drifting": "sym_drifting_2023",
+        "SDKP(2123)|drifting": "sym_drifting_2123",
+        "SDKP(2103)|drifting": "sym_drifting_2103"
+      },
+      "n_unknown": 7
+    },
+    {
+      "seed": 2,
+      "basis": "alpha",
+      "arm": "full",
+      "signal": 5,
+      "trap": 1,
+      "committed": 5,
+      "wrong": false,
+      "crossed": false,
+      "grounded": {
+        "SDKP(2121)|drifting": "sym_drifting_2121",
+        "SDKP(2101)|drifting": "sym_drifting_2101",
+        "SDKP(2001)|drifting": "sym_drifting_2001",
+        "SDKP(2101)|settled": "sym_settled_2101",
+        "SDKP(2021)|drifting": "sym_drifting_2021"
+      },
+      "n_unknown": 6
+    },
+    {
+      "seed": 3,
+      "basis": "alpha",
+      "arm": "full",
+      "signal": 4,
+      "trap": 0,
+      "committed": 0,
+      "wrong": true,
+      "crossed": false,
+      "grounded": {
+        "SDKP(2100)|drifting": "sym_drifting_2100",
+        "SDKP(2100)|holding_against_evidence": "sym_holding_against_evidence_2100",
+        "SDKP(2120)|holding_against_evidence": "sym_holding_against_evidence_2120",
+        "SDKP(2110)|holding_against_evidence": "sym_holding_against_evidence_2110"
+      },
+      "n_unknown": 5
+    },
+    {
+      "seed": 4,
+      "basis": "alpha",
+      "arm": "full",
+      "signal": 4,
+      "trap": 5,
+      "committed": 4,
+      "wrong": false,
+      "crossed": true,
+      "grounded": {
+        "SDKP(2101)|drifting": "sym_drifting_2101",
+        "SDKP(2121)|drifting": "sym_drifting_2121",
+        "SDKP(2021)|drifting": "sym_drifting_2021",
+        "SDKP(2001)|drifting": "sym_drifting_2001"
+      },
+      "n_unknown": 7
+    },
+    {
+      "seed": 5,
+      "basis": "alpha",
+      "arm": "full",
+      "signal": 4,
+      "trap": 5,
+      "committed": 4,
+      "wrong": false,
+      "crossed": true,
+      "grounded": {
+        "SDKP(2101)|settled": "sym_settled_2101",
+        "SDKP(2001)|drifting": "sym_drifting_2001",
+        "SDKP(2021)|drifting": "sym_drifting_2021",
+        "SDKP(2101)|drifting": "sym_drifting_2101",
+        "SDKP(2121)|drifting": "sym_drifting_2121"
+      },
+      "n_unknown": 6
+    },
+    {
+      "seed": 6,
+      "basis": "alpha",
+      "arm": "full",
+      "signal": 2,
+      "trap": 3,
+      "committed": 2,
+      "wrong": false,
+      "crossed": true,
+      "grounded": {
+        "SDKP(2103)|drifting": "sym_drifting_2103",
+        "SDKP(2003)|drifting": "sym_drifting_2003",
+        "SDKP(2123)|drifting": "sym_drifting_2123",
+        "SDKP(2023)|drifting": "sym_drifting_2023"
+      },
+      "n_unknown": 8
+    },
+    {
+      "seed": 7,
+      "basis": "alpha",
+      "arm": "full",
+      "signal": 5,
+      "trap": 3,
+      "committed": 5,
+      "wrong": false,
+      "crossed": true,
+      "grounded": {
+        "SDKP(2123)|drifting": "sym_drifting_2123",
+        "SDKP(2103)|settled": "sym_settled_2103",
+        "SDKP(2103)|drifting": "sym_drifting_2103",
+        "SDKP(2023)|drifting": "sym_drifting_2023",
+        "SDKP(2003)|drifting": "sym_drifting_2003"
+      },
+      "n_unknown": 7
+    },
+    {
+      "seed": 8,
+      "basis": "alpha",
+      "arm": "full",
+      "signal": 4,
+      "trap": 1,
+      "committed": 4,
+      "wrong": false,
+      "crossed": false,
+      "grounded": {
+        "SDKP(2101)|drifting": "sym_drifting_2101",
+        "SDKP(2001)|drifting": "sym_drifting_2001",
+        "SDKP(2121)|drifting": "sym_drifting_2121",
+        "SDKP(2021)|drifting": "sym_drifting_2021"
+      },
+      "n_unknown": 6
+    },
+    {
+      "seed": 9,
+      "basis": "alpha",
+      "arm": "full",
+      "signal": 2,
+      "trap": 5,
+      "committed": 2,
+      "wrong": false,
+      "crossed": false,
+      "grounded": {
+        "SDKP(2101)|drifting": "sym_drifting_2101",
+        "SDKP(2001)|drifting": "sym_drifting_2001",
+        "SDKP(2021)|drifting": "sym_drifting_2021",
+        "SDKP(2121)|drifting": "sym_drifting_2121"
+      },
+      "n_unknown": 6
+    },
+    {
+      "seed": 10,
+      "basis": "alpha",
+      "arm": "full",
+      "signal": 4,
+      "trap": 5,
+      "committed": 5,
+      "wrong": true,
+      "crossed": true,
+      "grounded": {
+        "SDKP(2100)|holding_against_evidence": "sym_holding_against_evidence_2100",
+        "SDKP(2120)|holding_against_evidence": "sym_holding_against_evidence_2120",
+        "SDKP(2000)|drifting": "sym_drifting_2000"
+      },
+      "n_unknown": 7
+    },
+    {
+      "seed": 11,
+      "basis": "alpha",
+      "arm": "full",
+      "signal": 0,
+      "trap": 1,
+      "committed": 1,
+      "wrong": true,
+      "crossed": false,
+      "grounded": {
+        "SDKP(2100)|holding_against_evidence": "sym_holding_against_evidence_2100",
+        "SDKP(2110)|holding_against_evidence": "sym_holding_against_evidence_2110",
+        "SDKP(2120)|holding_against_evidence": "sym_holding_against_evidence_2120"
+      },
+      "n_unknown": 6
+    },
+    {
+      "seed": 12,
+      "basis": "alpha",
+      "arm": "full",
+      "signal": 3,
+      "trap": 1,
+      "committed": 3,
+      "wrong": false,
+      "crossed": true,
+      "grounded": {
+        "SDKP(2121)|drifting": "sym_drifting_2121",
+        "SDKP(2101)|drifting": "sym_drifting_2101",
+        "SDKP(2001)|drifting": "sym_drifting_2001",
+        "SDKP(2021)|drifting": "sym_drifting_2021"
+      },
+      "n_unknown": 6
+    },
+    {
+      "seed": 13,
+      "basis": "alpha",
+      "arm": "full",
+      "signal": 5,
+      "trap": 4,
+      "committed": 4,
+      "wrong": true,
+      "crossed": true,
+      "grounded": {
+        "SDKP(2121)|holding_against_evidence": "sym_holding_against_evidence_2121",
+        "SDKP(2101)|holding_against_evidence": "sym_holding_against_evidence_2101"
+      },
+      "n_unknown": 7
+    },
+    {
+      "seed": 14,
+      "basis": "alpha",
+      "arm": "full",
+      "signal": 0,
+      "trap": 5,
+      "committed": 0,
+      "wrong": false,
+      "crossed": false,
+      "grounded": {
+        "SDKP(2001)|drifting": "sym_drifting_2001",
+        "SDKP(2021)|drifting": "sym_drifting_2021",
+        "SDKP(2101)|drifting": "sym_drifting_2101",
+        "SDKP(2121)|drifting": "sym_drifting_2121"
+      },
+      "n_unknown": 7
+    },
+    {
+      "seed": 15,
+      "basis": "alpha",
+      "arm": "full",
+      "signal": 5,
+      "trap": 3,
+      "committed": 5,
+      "wrong": false,
+      "crossed": false,
+      "grounded": {
+        "SDKP(2103)|drifting": "sym_drifting_2103",
+        "SDKP(2003)|drifting": "sym_drifting_2003",
+        "SDKP(2123)|drifting": "sym_drifting_2123",
+        "SDKP(2023)|drifting": "sym_drifting_2023",
+        "SDKP(2013)|drifting": "sym_drifting_2013"
+      },
+      "n_unknown": 6
+    }
+  ],
+  "beta": [
+    {
+      "seed": 0,
+      "basis": "beta",
+      "arm": "full",
+      "signal": 5,
+      "trap": 3,
+      "committed": 5,
+      "wrong": false,
+      "crossed": true,
+      "grounded": {
+        "SDKP(0003)|drifting": "sym_drifting_0003",
+        "SDKP(0023)|drifting": "sym_drifting_0023"
+      },
+      "n_unknown": 9
+    },
+    {
+      "seed": 1,
+      "basis": "beta",
+      "arm": "full",
+      "signal": 2,
+      "trap": 3,
+      "committed": 2,
+      "wrong": false,
+      "crossed": false,
+      "grounded": {
+        "SDKP(0002)|drifting": "sym_drifting_0002",
+        "SDKP(0003)|drifting": "sym_drifting_0003",
+        "SDKP(0023)|drifting": "sym_drifting_0023"
+      },
+      "n_unknown": 14
+    },
+    {
+      "seed": 2,
+      "basis": "beta",
+      "arm": "full",
+      "signal": 5,
+      "trap": 1,
+      "committed": 5,
+      "wrong": false,
+      "crossed": false,
+      "grounded": {
+        "SDKP(0003)|drifting": "sym_drifting_0003",
+        "SDKP(0023)|drifting": "sym_drifting_0023"
+      },
+      "n_unknown": 11
+    },
+    {
+      "seed": 3,
+      "basis": "beta",
+      "arm": "full",
+      "signal": 4,
+      "trap": 0,
+      "committed": 0,
+      "wrong": true,
+      "crossed": true,
+      "grounded": {
+        "SDKP(1003)|holding_against_evidence": "sym_holding_against_evidence_1003",
+        "SDKP(1023)|holding_against_evidence": "sym_holding_against_evidence_1023",
+        "SDKP(0003)|holding_against_evidence": "sym_holding_against_evidence_0003"
+      },
+      "n_unknown": 11
+    },
+    {
+      "seed": 4,
+      "basis": "beta",
+      "arm": "full",
+      "signal": 4,
+      "trap": 5,
+      "committed": 4,
+      "wrong": false,
+      "crossed": true,
+      "grounded": {
+        "SDKP(0023)|drifting": "sym_drifting_0023",
+        "SDKP(0003)|drifting": "sym_drifting_0003"
+      },
+      "n_unknown": 12
+    },
+    {
+      "seed": 5,
+      "basis": "beta",
+      "arm": "full",
+      "signal": 4,
+      "trap": 5,
+      "committed": 4,
+      "wrong": false,
+      "crossed": true,
+      "grounded": {
+        "SDKP(0023)|drifting": "sym_drifting_0023",
+        "SDKP(0003)|drifting": "sym_drifting_0003"
+      },
+      "n_unknown": 14
+    },
+    {
+      "seed": 6,
+      "basis": "beta",
+      "arm": "full",
+      "signal": 2,
+      "trap": 3,
+      "committed": 2,
+      "wrong": false,
+      "crossed": true,
+      "grounded": {
+        "SDKP(0003)|drifting": "sym_drifting_0003",
+        "SDKP(0023)|drifting": "sym_drifting_0023"
+      },
+      "n_unknown": 10
+    },
+    {
+      "seed": 7,
+      "basis": "beta",
+      "arm": "full",
+      "signal": 5,
+      "trap": 3,
+      "committed": 5,
+      "wrong": false,
+      "crossed": false,
+      "grounded": {
+        "SDKP(0003)|drifting": "sym_drifting_0003",
+        "SDKP(0023)|drifting": "sym_drifting_0023"
+      },
+      "n_unknown": 14
+    },
+    {
+      "seed": 8,
+      "basis": "beta",
+      "arm": "full",
+      "signal": 4,
+      "trap": 1,
+      "committed": 4,
+      "wrong": false,
+      "crossed": true,
+      "grounded": {
+        "SDKP(0003)|drifting": "sym_drifting_0003",
+        "SDKP(0023)|drifting": "sym_drifting_0023",
+        "SDKP(0123)|drifting": "sym_drifting_0123"
+      },
+      "n_unknown": 12
+    },
+    {
+      "seed": 9,
+      "basis": "beta",
+      "arm": "full",
+      "signal": 2,
+      "trap": 5,
+      "committed": 2,
+      "wrong": false,
+      "crossed": true,
+      "grounded": {
+        "SDKP(0003)|drifting": "sym_drifting_0003",
+        "SDKP(0023)|drifting": "sym_drifting_0023",
+        "SDKP(1023)|drifting": "sym_drifting_1023"
+      },
+      "n_unknown": 10
+    },
+    {
+      "seed": 10,
+      "basis": "beta",
+      "arm": "full",
+      "signal": 4,
+      "trap": 5,
+      "committed": 5,
+      "wrong": true,
+      "crossed": true,
+      "grounded": {
+        "SDKP(1002)|holding_against_evidence": "sym_holding_against_evidence_1002",
+        "SDKP(1022)|holding_against_evidence": "sym_holding_against_evidence_1022",
+        "SDKP(0022)|settled": "sym_settled_0022",
+        "SDKP(0022)|drifting": "sym_drifting_0022",
+        "SDKP(0002)|drifting": "sym_drifting_0002"
+      },
+      "n_unknown": 11
+    },
+    {
+      "seed": 11,
+      "basis": "beta",
+      "arm": "full",
+      "signal": 0,
+      "trap": 1,
+      "committed": 1,
+      "wrong": true,
+      "crossed": false,
+      "grounded": {
+        "SDKP(1023)|holding_against_evidence": "sym_holding_against_evidence_1023",
+        "SDKP(0003)|holding_against_evidence": "sym_holding_against_evidence_0003"
+      },
+      "n_unknown": 14
+    },
+    {
+      "seed": 12,
+      "basis": "beta",
+      "arm": "full",
+      "signal": 3,
+      "trap": 1,
+      "committed": 3,
+      "wrong": false,
+      "crossed": true,
+      "grounded": {
+        "SDKP(0003)|drifting": "sym_drifting_0003",
+        "SDKP(0023)|drifting": "sym_drifting_0023"
+      },
+      "n_unknown": 11
+    },
+    {
+      "seed": 13,
+      "basis": "beta",
+      "arm": "full",
+      "signal": 5,
+      "trap": 4,
+      "committed": 4,
+      "wrong": true,
+      "crossed": false,
+      "grounded": {
+        "SDKP(0002)|holding_against_evidence": "sym_holding_against_evidence_0002",
+        "SDKP(1022)|holding_against_evidence": "sym_holding_against_evidence_1022"
+      },
+      "n_unknown": 18
+    },
+    {
+      "seed": 14,
+      "basis": "beta",
+      "arm": "full",
+      "signal": 0,
+      "trap": 5,
+      "committed": 0,
+      "wrong": false,
+      "crossed": false,
+      "grounded": {
+        "SDKP(0023)|drifting": "sym_drifting_0023",
+        "SDKP(0003)|drifting": "sym_drifting_0003",
+        "SDKP(0003)|settled": "sym_settled_0003"
+      },
+      "n_unknown": 12
+    },
+    {
+      "seed": 15,
+      "basis": "beta",
+      "arm": "full",
+      "signal": 5,
+      "trap": 3,
+      "committed": 5,
+      "wrong": false,
+      "crossed": true,
+      "grounded": {
+        "SDKP(0023)|drifting": "sym_drifting_0023",
+        "SDKP(0003)|drifting": "sym_drifting_0003"
+      },
+      "n_unknown": 13
+    }
+  ],
+  "emergence_verdict": "unassigned"
+}

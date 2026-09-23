@@ -22,7 +22,7 @@ Licensor: [Soulshine](ABOUT_SOULSHINE.md) (501(c)(3)). License: [Apache-2.0](LIC
 
 This shelf intentionally **omits**:
 
-- `organism_v0_3` — absent from the Sep 2026 upload; not invented here.
+- `organism_v0_3` — runner recovered 2026-09-23; **byte-identical** to `topographic_memory_v0_4/source_claude_v0_3.py` (already in that pack’s seal). Named copy + fresh re-run under `organism_v0_3/` for discoverability; not a separate MANIFEST seal. Still missing: `cross_surface_battery.py`.
 - `cross_surface_battery.py` / cross-surface loose scripts — unsealed or blocked (missing import); not invented here.
 - `whole_cycle_observation_v0_3` — sealed but thin / non-evidential; SKIP per publish plan.
 
