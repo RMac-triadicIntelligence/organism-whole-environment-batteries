@@ -1,0 +1,11 @@
+# Standard Python ignores (build/cache artifacts only; evidence files are not ignored)
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.DS_Store
+*.egg-info/
+.pytest_cache/
+build/
+dist/
